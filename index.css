@@ -7,3 +7,12 @@ h1 {
     color: #2d3436;
     text-align: center;
 }
+
+.showing {
+    display: block !important;
+}
+
+.form, .greetings {
+    display: none;
+}
+
