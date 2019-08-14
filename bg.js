@@ -12,7 +12,6 @@ function paintImage(imgNumber){
     img.classList.add("bgImage");
     body.appendChild(img);
     img.addEventListener("loadend", handleImgLoad);
-    
 }
 
 function genRandom(){
